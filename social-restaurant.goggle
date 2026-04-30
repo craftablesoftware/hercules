@@ -1,0 +1,13 @@
+! name: Local Food and Social Discovery
+! description: Filters for specific restaurant and social profile paths.
+! public: false
+! author: Aline Marini
+
+$discard
+
+$boost,site=glovoapp.com
+$boost,site=food.bolt.eu
+$boost,site=instagram.com
+$boost,site=ubereats.com
+$boost,site=facebook.com
+$boost,site=tripadvisor.com

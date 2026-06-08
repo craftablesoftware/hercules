@@ -5,9 +5,10 @@
 
 $discard
 
-$boost,site=glovoapp.com
-$boost,site=food.bolt.eu
+|https://glovoapp.com/pt/pt/$boost
+|https://glovoapp.com/en/$discard
+|https://www.ubereats.com/pt/store/$boost
+|https://food.bolt.eu/pt-pt/$boost
 $boost,site=instagram.com
-$boost,site=ubereats.com
 $boost,site=facebook.com
 $boost,site=tripadvisor.com

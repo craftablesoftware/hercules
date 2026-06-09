@@ -8,6 +8,7 @@ $discard
 |https://glovoapp.com/pt/pt/$boost
 |https://glovoapp.com/en/$discard
 |https://www.ubereats.com/pt/store/$boost
+|https://www.ubereats.com/pt-en/$discard
 |https://food.bolt.eu/pt-pt/$boost
 $boost,site=instagram.com
 $boost,site=facebook.com
